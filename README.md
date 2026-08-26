@@ -48,18 +48,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/toufiq-amin-3366a6382?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3Bg5U%2BFM59Q0iJK%2BgsILpijg%3D%3D" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Streak
 
 <div align="center">
